@@ -9,5 +9,10 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-youtube"
+  "hubot-youtube",
+  "hubot-trollbot",
+  "hubot-instagram",
+  "hubot-loudbot",
+  "hubot-victory",
+  "hubot-sarcasmlink"
 ]
