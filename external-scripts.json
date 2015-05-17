@@ -1,10 +1,12 @@
 [  
   "hubot-help",
   "hubot-heroku-keepalive",
+  "hubot-google-images",
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-victory",
   "hubot-insulter",
   "hubot-decides",
+  "hubot-fun",
   "hubot-reddit"
 ]
