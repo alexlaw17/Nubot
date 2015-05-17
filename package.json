@@ -19,6 +19,7 @@
     "hubot-loudbot": "^1.4.1",
     "hubot-maps": "0.0.2",
     "hubot-pugme": "^0.1.0",
+    "hubot-reddit": "0.0.1",
     "hubot-redis-brain": "0.0.2",
     "hubot-rules": "^0.1.0",
     "hubot-sarcasmlink": "^1.1.3",
