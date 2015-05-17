@@ -6,6 +6,7 @@
   "description": "brothers are brothers",
   "dependencies": {
     "hubot": "^2.12.0",
+    "hubot-2048": "^1.0.1",
     "hubot-catme": "^1.0.0",
     "hubot-decides": "0.0.7",
     "hubot-diagnostics": "0.0.1",
@@ -26,6 +27,7 @@
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.3.0",
+    "hubot-trivia": "^0.3.0",
     "hubot-trollbot": "^0.1.1",
     "hubot-victory": "^1.3.0",
     "hubot-youtube": "^0.1.2"
