@@ -2,14 +2,14 @@
 1 verbose cli [ 'C:\\Program Files\\nodejs\\\\node.exe',
 1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
 1 verbose cli   'install',
-1 verbose cli   'hubot-youtuve-v3',
+1 verbose cli   'hubot-spoitify-me',
 1 verbose cli   '--save' ]
 2 info using npm@1.4.28
 3 info using node@v0.10.35
 4 verbose node symlink C:\Program Files\nodejs\\node.exe
 5 verbose readDependencies using package.json deps
-6 verbose cache add [ 'hubot-youtuve-v3', null ]
-7 verbose cache add name=undefined spec="hubot-youtuve-v3" args=["hubot-youtuve-v3",null]
+6 verbose cache add [ 'hubot-spoitify-me', null ]
+7 verbose cache add name=undefined spec="hubot-spoitify-me" args=["hubot-spoitify-me",null]
 8 verbose parsed url { protocol: null,
 8 verbose parsed url   slashes: null,
 8 verbose parsed url   auth: null,
@@ -19,67 +19,67 @@
 8 verbose parsed url   hash: null,
 8 verbose parsed url   search: null,
 8 verbose parsed url   query: null,
-8 verbose parsed url   pathname: 'hubot-youtuve-v3',
-8 verbose parsed url   path: 'hubot-youtuve-v3',
-8 verbose parsed url   href: 'hubot-youtuve-v3' }
-9 silly lockFile 869090ef-hubot-youtuve-v3 hubot-youtuve-v3
-10 verbose lock hubot-youtuve-v3 C:\Users\Alex Law\AppData\Roaming\npm-cache\869090ef-hubot-youtuve-v3.lock
-11 silly lockFile 869090ef-hubot-youtuve-v3 hubot-youtuve-v3
-12 silly lockFile 869090ef-hubot-youtuve-v3 hubot-youtuve-v3
-13 verbose addNamed [ 'hubot-youtuve-v3', '' ]
+8 verbose parsed url   pathname: 'hubot-spoitify-me',
+8 verbose parsed url   path: 'hubot-spoitify-me',
+8 verbose parsed url   href: 'hubot-spoitify-me' }
+9 silly lockFile eb274dd6-hubot-spoitify-me hubot-spoitify-me
+10 verbose lock hubot-spoitify-me C:\Users\Alex Law\AppData\Roaming\npm-cache\eb274dd6-hubot-spoitify-me.lock
+11 silly lockFile eb274dd6-hubot-spoitify-me hubot-spoitify-me
+12 silly lockFile eb274dd6-hubot-spoitify-me hubot-spoitify-me
+13 verbose addNamed [ 'hubot-spoitify-me', '' ]
 14 verbose addNamed [ null, '*' ]
-15 silly lockFile 18f1bae8-hubot-youtuve-v3 hubot-youtuve-v3@
-16 verbose lock hubot-youtuve-v3@ C:\Users\Alex Law\AppData\Roaming\npm-cache\18f1bae8-hubot-youtuve-v3.lock
-17 silly addNameRange { name: 'hubot-youtuve-v3', range: '*', hasData: false }
-18 verbose request where is /hubot-youtuve-v3
+15 silly lockFile be8d9ddc-hubot-spoitify-me hubot-spoitify-me@
+16 verbose lock hubot-spoitify-me@ C:\Users\Alex Law\AppData\Roaming\npm-cache\be8d9ddc-hubot-spoitify-me.lock
+17 silly addNameRange { name: 'hubot-spoitify-me', range: '*', hasData: false }
+18 verbose request where is /hubot-spoitify-me
 19 verbose request registry https://registry.npmjs.org/
-20 verbose request id 54bc67d54261b9c1
-21 verbose url raw /hubot-youtuve-v3
-22 verbose url resolving [ 'https://registry.npmjs.org/', './hubot-youtuve-v3' ]
-23 verbose url resolved https://registry.npmjs.org/hubot-youtuve-v3
-24 verbose request where is https://registry.npmjs.org/hubot-youtuve-v3
-25 info trying registry request attempt 1 at 17:16:12
-26 http GET https://registry.npmjs.org/hubot-youtuve-v3
-27 http 404 https://registry.npmjs.org/hubot-youtuve-v3
+20 verbose request id 4d9816b7cd2a0724
+21 verbose url raw /hubot-spoitify-me
+22 verbose url resolving [ 'https://registry.npmjs.org/', './hubot-spoitify-me' ]
+23 verbose url resolved https://registry.npmjs.org/hubot-spoitify-me
+24 verbose request where is https://registry.npmjs.org/hubot-spoitify-me
+25 info trying registry request attempt 1 at 17:46:48
+26 http GET https://registry.npmjs.org/hubot-spoitify-me
+27 http 404 https://registry.npmjs.org/hubot-spoitify-me
 28 verbose headers { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
 28 verbose headers   'content-type': 'application/json',
 28 verbose headers   'cache-control': 'max-age=0',
 28 verbose headers   'content-length': '51',
 28 verbose headers   'accept-ranges': 'bytes',
-28 verbose headers   date: 'Mon, 18 May 2015 21:16:12 GMT',
+28 verbose headers   date: 'Mon, 18 May 2015 21:46:48 GMT',
 28 verbose headers   via: '1.1 varnish',
 28 verbose headers   age: '0',
 28 verbose headers   connection: 'keep-alive',
-28 verbose headers   'x-served-by': 'cache-iad2139-IAD',
+28 verbose headers   'x-served-by': 'cache-iad2127-IAD',
 28 verbose headers   'x-cache': 'MISS',
 28 verbose headers   'x-cache-hits': '0',
-28 verbose headers   'x-timer': 'S1431983771.986048,VS0,VE17' }
+28 verbose headers   'x-timer': 'S1431985608.013182,VS0,VE87' }
 29 silly registry.get cb [ 404,
 29 silly registry.get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
 29 silly registry.get     'content-type': 'application/json',
 29 silly registry.get     'cache-control': 'max-age=0',
 29 silly registry.get     'content-length': '51',
 29 silly registry.get     'accept-ranges': 'bytes',
-29 silly registry.get     date: 'Mon, 18 May 2015 21:16:12 GMT',
+29 silly registry.get     date: 'Mon, 18 May 2015 21:46:48 GMT',
 29 silly registry.get     via: '1.1 varnish',
 29 silly registry.get     age: '0',
 29 silly registry.get     connection: 'keep-alive',
-29 silly registry.get     'x-served-by': 'cache-iad2139-IAD',
+29 silly registry.get     'x-served-by': 'cache-iad2127-IAD',
 29 silly registry.get     'x-cache': 'MISS',
 29 silly registry.get     'x-cache-hits': '0',
-29 silly registry.get     'x-timer': 'S1431983771.986048,VS0,VE17' } ]
-30 silly lockFile 18f1bae8-hubot-youtuve-v3 hubot-youtuve-v3@
-31 silly lockFile 18f1bae8-hubot-youtuve-v3 hubot-youtuve-v3@
-32 error 404 404 Not Found: hubot-youtuve-v3
+29 silly registry.get     'x-timer': 'S1431985608.013182,VS0,VE87' } ]
+30 silly lockFile be8d9ddc-hubot-spoitify-me hubot-spoitify-me@
+31 silly lockFile be8d9ddc-hubot-spoitify-me hubot-spoitify-me@
+32 error 404 404 Not Found: hubot-spoitify-me
 32 error 404
-32 error 404 'hubot-youtuve-v3' is not in the npm registry.
+32 error 404 'hubot-spoitify-me' is not in the npm registry.
 32 error 404 You should bug the author to publish it
 32 error 404 It was specified as a dependency of 'nubot'
 32 error 404
 32 error 404 Note that you can also install from a
 32 error 404 tarball, folder, or http url, or git url.
 33 error System Windows_NT 6.2.9200
-34 error command "C:\\Program Files\\nodejs\\\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "hubot-youtuve-v3" "--save"
+34 error command "C:\\Program Files\\nodejs\\\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "hubot-spoitify-me" "--save"
 35 error cwd D:\code\Slack\hubot
 36 error node -v v0.10.35
 37 error npm -v 1.4.28

@@ -10,5 +10,6 @@
   "hubot-reddit",
   "hubot-youtube-v3",
   "hubot-instagram",
-  "hubot-calculator"
+  "hubot-calculator",
+  "hubot-spotify-me"
 ]
