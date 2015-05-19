@@ -11,5 +11,6 @@
 "sensitive.coffee",
 "giphy.coffee",
 "urban.coffee",
+"wikipedia.coffee",
 "hangman.coffee"
 ]
