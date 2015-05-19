@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "author": "Alex Law <alexlaw17@gmail.com>",
-  "description": "brothers are brothers",
+  "description": "",
   "dependencies": {
     "hubot": "^2.12.0",
     "hubot-2048": "^1.0.1",
